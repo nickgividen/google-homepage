@@ -1,0 +1,88 @@
+body {
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+}
+header {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+a {
+    text-decoration: none;
+    color: black;
+    opacity: 75%;
+}
+a:hover {
+    text-decoration: underline;
+}
+.top-left {
+    margin: 23px 0 0 10px;
+    padding-left: 15px;
+}
+#about {
+    margin-right: 11px;
+}
+.top-right {
+    margin: 23px 10px 0 0;
+}
+.main {
+    margin-top: 118px;
+    margin-bottom: 25px;
+}
+#logo {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 272px;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    border: 1px solid #dfe1e5;
+    box-shadow: 0 1px 6px rgba(32,33,36,.28);
+    height: 44px;
+    border-radius: 24px;
+    width: 482px;
+}
+
+input {
+    border: none;
+}
+
+button {
+    border: none;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 17px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    color: #3c4043;
+    
+}
+
+.buttonz {
+    text-align: center;
+}
+
+.submit {
+    
+
+}
+
+#google-search {
+    
+}
+
+#feeling-lucky {
+    
+}
