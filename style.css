@@ -29,19 +29,29 @@ a:hover {
     margin-top: 23px;
 }
 
+#images {
+    margin-right: 18px;
+}
+
+#gmail {
+    margin-right: 10px;
+}
 
 #apps {
     opacity: 75%;
     float: right;
-    margin-top: 5px;
+    margin-top: -4px;
+    margin-right: 17px;
 }
 
 #profile-pic {
     border-radius: 50%;
-    float:right
+    float:right;
+    margin-top: -8px;
+    margin-right: 29px;;
 }
 .main {
-    margin-top: 140px;
+    margin-top: 150px;
     margin-bottom: 25px;
 }
 #logo {
